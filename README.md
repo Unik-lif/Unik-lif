@@ -1,5 +1,5 @@
 - 👋 I’m @Unik-lif
-- 👀 I’m interested in security & OS & Hardware security.
+- 👀 I’m interested in ??? security.
 - 🌱 I’m currently learning basic knowledge to aid my futural work in systems
 
 <!---
