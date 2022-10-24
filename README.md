@@ -1,4 +1,4 @@
-- 👋 I’m @Unik-lif
+- 👋 @Unik-lif Male
 - 👀 I’m interested in ??? security.
 - 🌱 I’m currently learning basic knowledge to aid my futural work in systems
 
