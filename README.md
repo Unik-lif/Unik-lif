@@ -1,5 +1,5 @@
 - 👋 @Unik-lif Male
-- 👀 I’m interested in system security & workout & Piano & Bach & Touhou.
+- 👀 I’m interested in system security related topics & Touhou.
 - 🌱 I’m currently learning basic knowledge to aid my futural work in systems including side-channel, virtualization etc.
 contact me: songlinke@iie.ac.cn
 <!---
