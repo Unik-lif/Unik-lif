@@ -1,4 +1,4 @@
-- 👋 @Unik-lif Male Ucaser since 2018.9
+- 👋 @Unik-lif Male Ucaser
 - 👀 I’m interested in system security related topics, mainly on OS/virtualization/TEEs/Side-channels/Chips Design
 - Having interest in FHE and crypto as well. => Maybe it will be the Next Project?
 contact me: songlinke@iie.ac.cn
