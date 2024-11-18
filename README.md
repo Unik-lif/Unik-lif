@@ -1,5 +1,7 @@
 - 👋 @Unik-lif Male Ucaser
 - 👀 I’m interested in system security related topics, mainly on OS/virtualization/TEEs/Side-channels/Chips Design
+- I am currently working on a confidential computing system project which invovles co-design of SW and HW.
+- Recently Studying AI/LLM from the beginning.
 - Having interest in FHE and crypto as well. => Maybe it will be the Next Project?
 contact me: songlinke@iie.ac.cn
 <!---
